@@ -1,0 +1,3 @@
+cd $PREFIX/share/lemon/ && node index.js
+cd $PREFIX/share/lemon/ && node index.js
+cd $PREFIX/share/lemon/ && node index.js
